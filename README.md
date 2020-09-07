@@ -1,3 +1,10 @@
+# My comments:
+
+Hi! This is part of an exercice from Microsoft to deploy a Ract static web app and its APIs to Azure, using github actions whenever a commit is done on the master branch.
+Here is the excercice: https://docs.microsoft.com/pt-br/learn/modules/publish-app-service-static-web-app-api/
+The repository is based on the template provided in https://github.com/johnpapa/swa-workshop.
+My running solution can be found here: https://static-web-app-01.lafpinheiro.com/
+
 # Static Web Apps
 
 This repository contains apps that can be used with as a starting point for some MS Learn Modules. because everyone has their own preference for their JavaScript frameworks/library, you can choose which one you prefer.
